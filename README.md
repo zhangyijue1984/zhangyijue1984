@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zhangyijue1984
-- 👀 I’m interested in medcine
-- 🌱 I’m currently learning python machine learning
+- 👀 I’m a medical doctor.
+- 🌱 I’m currently learning python and machine learning.
 - 💞️ I’m looking to collaborate on medical doctor share the database and establish clinical prediction model.
 - 📫 How to reach me ...
 
